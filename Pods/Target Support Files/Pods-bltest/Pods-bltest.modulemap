@@ -1,0 +1,6 @@
+framework module Pods_bltest {
+  umbrella header "Pods-bltest-umbrella.h"
+
+  export *
+  module * { export * }
+}
